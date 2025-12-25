@@ -1,3 +1,5 @@
+// Book availability feature added
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
